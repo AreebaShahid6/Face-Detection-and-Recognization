@@ -37,31 +37,20 @@ The implementation is provided in the `FACE_DETECTION.ipynb` notebook file. It i
 - Real-time video feed processing loop.
 - Termination condition when the user presses a specific key (e.g., 'q').
 
-## 6. Sample Output
 
-When executed, the system opens a live video feed and highlights any detected faces in real time, as shown below:
-
-*(Replace with your own screenshot if needed)*  
-![Sample Output](https://upload.wikimedia.org/wikipedia/commons/7/7d/Face_detection_using_OpenCV.jpg)
-
-## 7. Conclusion
+## 6. Conclusion
 
 This project successfully demonstrates the implementation of a real-time face detection application using OpenCV. It can serve as a foundation for more advanced projects such as face recognition, attendance systems, or emotion analysis.
 
-## 8. Future Enhancements
+## 7. Future Enhancements
 
 - Add face recognition using LBPH or deep learning models.
 - Detect multiple facial features (eyes, smile, etc.).
 - Deploy the application as a desktop or web-based app.
 
-## 9. References
+## 8. References
 
 - OpenCV Documentation: https://docs.opencv.org
 - Haar Cascade Classifiers: https://github.com/opencv/opencv/tree/master/data/haarcascades
 
-## 10. Author
-
-**Your Name**  
-GitHub: [github.com/yourusername](https://github.com/yourusername)  
-Email: your.email@example.com
 
